@@ -1,0 +1,8 @@
+name: postgresql
+version: 1.0.0
+description: Object-relational database management system (ORDBMS) with an emphasis on extensibility and on standards-compliance.
+keywords:
+- postgresql
+- postgres
+- database
+- sql

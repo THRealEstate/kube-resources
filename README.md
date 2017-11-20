@@ -4,6 +4,7 @@ This repository will exclusively house Helm charts for the purpose of building c
 Currently this directory has the following helm charts:
 
 * Redis (with most recent ML bindings)
+* PSQL (with most stable chart version from Kubernetes)
 
 Author:
 
