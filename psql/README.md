@@ -30,7 +30,7 @@ host    all             all             <OUR_HOST_ADDRESS>      trust
 At this point in time you may now connect to `psql` with the following:
 
 ```bash
-> psql -H "192.168.99.100" -p 30231 -d thre -U my-user
+> psql -h 192.168.99.100 -p 30231 -d thre -U my-user
 Password for user my-user:
 psql (9.5.4, server 9.6.2)
 Type "help" for help.
